@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-      <TITLE>测试页面</TITLE>
+      <title>测试页面</title>
   </head>
 <body>
 
